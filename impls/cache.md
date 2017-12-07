@@ -28,7 +28,7 @@ Cache the return value, use request parameter as the key.
 
 ## Extension Guide
 
-Project structure:
+Directory layout:
 
 ```
 src
