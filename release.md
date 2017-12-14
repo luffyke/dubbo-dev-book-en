@@ -1,6 +1,6 @@
 # Versions
 
-**New feature development ** 和 **stability improvement** are equally important to product. But adding new features will affect stability, dubbo uses the following version development pattern to achieve a good balance.
+**New feature development** 和 **stability improvement** are equally important to product. But adding new features will affect stability, dubbo uses the following version development pattern to achieve a good balance.
 
 ## Two versions evolving at the same time
 
